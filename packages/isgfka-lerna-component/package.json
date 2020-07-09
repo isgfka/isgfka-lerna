@@ -1,0 +1,17 @@
+{
+  "name": "isgfka-lerna-component",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "lerna-core": "^1.0.2"
+  },
+  "gitHead": "5390d5ab343822a4832c2bab3ad8f53bff91ee4b"
+}

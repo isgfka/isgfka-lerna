@@ -1,0 +1,7 @@
+{
+  "name": "isgfka-lerna",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  }
+}

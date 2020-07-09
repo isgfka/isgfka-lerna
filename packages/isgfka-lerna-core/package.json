@@ -1,0 +1,13 @@
+{
+  "name": "isgfka-lerna-core",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "5390d5ab343822a4832c2bab3ad8f53bff91ee4b"
+}
