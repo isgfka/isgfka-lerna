@@ -1,6 +1,6 @@
 {
   "name": "isgfka-lerna-component",
-  "version": "0.1.4",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
-    "isgfka-lerna-core": "^0.1.4"
+    "isgfka-lerna-core": "^0.1.0"
   },
   "gitHead": "4261101d8cde890d31de75ebeb1f050a73b36b27"
 }
